@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View The Code](https://github.com/ygwilliams4/interactive-rating-component)
+- Live Site URL: [Live site]( https://ygwilliams4.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yireobong william](https://www.frontendmentor.io/profile/ygwilliams4)
+- Twitter - [@YGWILLIAMS4](https://twitter.com/ygwilliams4)
